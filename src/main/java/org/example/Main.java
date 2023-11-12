@@ -93,7 +93,7 @@ public class Main {
 
 
             }
-            new ProcessBuilder("cmd", "/c", "cls").inheritIO().start().waitFor();
+            
         }
 
     }
